@@ -1,0 +1,22 @@
+body{
+    background:  #FF8c00;
+}
+p{
+    color: springgreen;
+    text-align: center;
+}
+p.esquerda{...
+   
+}
+.formato{
+    color: deeppink;
+    text-align: right;
+    font-family: 'Courier New', Courier, monospace';
+}
+h1,h2,h3,p{
+    color: beige;
+
+}
+h4,h5,h6{
+    color: green;
+}
